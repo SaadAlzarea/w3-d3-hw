@@ -299,25 +299,25 @@
           justify-content: center;
           align-items: start;
           width: 90%;
-          gap: 4vh;
+          gap: 2    vh;
           .input {
             display: flex;
             justify-content: center;
             align-items: center;
             width: 90%;
-            height: 9vh;
+            height: 6vh;
             border: 3px solid #9d9d9d;
             border-radius: 5px;
             input {
               width: 79%;
-              height: 8vh;
+              height: 5vh;
               border-style: none;
               background-color: #f0efef;
               font-weight: bold;
             }
             button {
               width: 20%;
-              height: 8vh;
+              height: 5vh;
               background-color: #115cfa;
               border-style: none;
               border-radius: 5px;
